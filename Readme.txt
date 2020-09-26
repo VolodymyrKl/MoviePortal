@@ -1,0 +1,1 @@
+Movie Portal is a server part of an internet page for movies. You can use this for storage of films with a different functional.
